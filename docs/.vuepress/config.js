@@ -1,6 +1,5 @@
 module.exports = {
     title: 'Vuepress',
-    base: 'vuepress-started',
     // Configurações relativas ao Tema
     themeConfig: {
         // Configuração de uma navbar
